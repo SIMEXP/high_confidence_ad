@@ -1,10 +1,11 @@
 ---
 title: 'NeuroLibre preprint (PDF) template'
 tags:
-  - Preprint
-  - Jupyter Book
   - Reproducible article
-  - Neuroscience
+  - Alzheimer's Disease
+  - Neuroimaging
+  - Biomarkers
+  - Precision medicine
 authors:
   - name: Angela Tam
     orcid: 0000-0001-6752-5707
