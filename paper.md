@@ -1,58 +1,23 @@
 ---
-title: 'Reproducible companion to A highly predictive signature of cognition and brain atrophy for progression to Alzheimer's dementia'
+title: 'NeuroLibre preprint (PDF) template'
 tags:
+  - Preprint
+  - Jupyter Book
   - Reproducible article
-  - Alzheimer's Disease
-  - Neuroimaging
-  - Biomarkers
-  - Precision medicine
+  - Neuroscience
 authors:
-  - name: Angela Tam
-    orcid: 0000-0001-6752-5707
+  - name: Agah Karakuzu
+    orcid: 0000-0001-7283-271X
     affiliation: "1, 2"
-  - name: Christian Dansereau
-    orcid: 0000-0003-3363-1901
-    affiliation: "1, 3"
-  - name: Yasser Iturria-Medina
-    orcid: 0000-0002-9345-0347
-    affiliation: "4"
-  - name: Sebastian Urchs
-    orcid: 0000-0001-5504-8579
-    affiliation: "1, 4"
-  - name: Pierre Orban
-    orcid: 0000-0003-3201-9614
-    affiliation: "1, 5, 6"
-  - name: Hanad Shamarke
-    orcid: 0000-0000-0000-0000
-    affiliation: "1"
-  - name: John Breitner
-    orcid: 0000-0003-4229-4687
-    affiliation: "2, 7"
-  - name: Pierre Bellec
-    orcid: 0000-0002-9111-0699
-    affiliation: "2, 7"
-  - name: Alzheimer's Disease Neuroimaging Initiative
-    orcid: 0000-0000-0000-0000
-    affiliation: ""
-
+  - name: Nikola Stikov
+    orcid: 0000-0002-8480-5230
+    affiliation: "1, 2"
 affiliations:
- - name:  Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal, 4545 chemin Queen-Mary, Montréal, QC, H3W 1W4, Canada
+ - name: NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal, Montreal, Canada
    index: 1
- - name: Centre for the Studies on Prevention of Alzheimer's Disease, Douglas Mental Health University Institute Research Centre, 6875 Lasalle Boulevard, Montréal, QC, H4H 1R3, Canada
+ - name: Montreal Heart Institute, University of Montréal, Montréal, Canada
    index: 2
- - name: Département d'informatique et de recherche opérationnelle, Université de Montréal, 2920 chemin de la Tour, Montréal, QC, H3T 1J4, Canada
-   index: 3
- - name: Montreal Neurological Institute, McGill University, 3801 University Street, Montréal, QC, H3A 2B4, Canada
-   index: 4
- - name: Centre de Recherche de l'Institut Universitaire en Santé Mentale de Montréal, 7331 rue Hochelaga, Montréal, QC, H1N 3V2, Canada
-   index: 5
- - name: Département de psychiatrie, Université de Montréal, 2900 boulevard Édouard-Montpetit, Montréal, QC, H3T 1J4, Canada
-   index: 6
- - name: Department of Psychiatry, McGill University, 1033 Pine Avenue West, Montréal, QC, H3A 1A1, Canada
-   index: 7
- - name: Département de psychologie, Université de Montréal, 90 avenue Vincent d'Indy, Montréal, QC, H3C 3J7, Canada
-   index: 8
-date: September 21st 2021
+date: 26 March 2021
 bibliography: paper.bib
 ---
 
