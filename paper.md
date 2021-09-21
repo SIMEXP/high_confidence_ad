@@ -1,5 +1,5 @@
 ---
-title: 'Reproducible jupyter book for a highly predictive signature of cognition and brain atrophy for progression to Alzheimer\'s dementia'
+title: 'Reproducible jupyter book for a highly predictive signature of cognition and brain atrophy for progression to Alzheimer s dementia'
 tags:
   - Reproducible article
   - Alzheimer's Disease
