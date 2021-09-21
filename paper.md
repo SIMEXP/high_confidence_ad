@@ -30,7 +30,7 @@ authors:
     orcid: 0000-0002-9111-0699
     affiliation: "2, 7"
   - name: Alzheimer's Disease Neuroimaging Initiative
-    affiliation: ""
+
 affiliations:
   - name:  Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal, 4545 chemin Queen-Mary, Montréal, QC, H3W 1W4, Canada
     index: 1
