@@ -13,10 +13,10 @@ authors:
     orcid: 0000-0002-8480-5230
     affiliation: "1, 2"
 affiliations:
- - name: NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal, Montreal, Canada
-   index: 1
- - name: Montreal Heart Institute, University of Montréal, Montréal, Canada
-   index: 2
+  - name:  Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal, 4545 chemin Queen-Mary, Montréal, QC, H3W 1W4, Canada
+    index: 1
+  - name: Centre for the Studies on Prevention of Alzheimer's Disease, Douglas Mental Health University Institute Research Centre, 6875 Lasalle Boulevard, Montréal, QC, H4H 1R3, Canada
+    index: 2
 date: 26 March 2021
 bibliography: paper.bib
 ---
