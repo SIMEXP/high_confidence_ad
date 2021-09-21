@@ -8,15 +8,28 @@ tags:
 authors:
   - name: Agah Karakuzu
     orcid: 0000-0001-7283-271X
-    affiliation: "1, 2"
+    affiliation: "1, 2, 3, 4, 5, 6"
   - name: Nikola Stikov
     orcid: 0000-0002-8480-5230
-    affiliation: "1, 2"
+    affiliation: "1, 2, 7, 8"
 affiliations:
   - name:  Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal, 4545 chemin Queen-Mary, Montréal, QC, H3W 1W4, Canada
     index: 1
   - name: Centre for the Studies on Prevention of Alzheimer's Disease, Douglas Mental Health University Institute Research Centre, 6875 Lasalle Boulevard, Montréal, QC, H4H 1R3, Canada
     index: 2
+  - name: Département d'informatique et de recherche opérationnelle, Université de Montréal, 2920 chemin de la Tour, Montréal, QC, H3T 1J4, Canada
+    index: 3
+  - name: Montreal Neurological Institute, McGill University, 3801 University Street, Montréal, QC, H3A 2B4, Canada
+    index: 4
+  - name: Centre de Recherche de l'Institut Universitaire en Santé Mentale de Montréal, 7331 rue Hochelaga, Montréal, QC, H1N 3V2, Canada
+    index: 5
+  - name: Département de psychiatrie, Université de Montréal, 2900 boulevard Édouard-Montpetit, Montréal, QC, H3T 1J4, Canada
+    index: 6
+  - name: Department of Psychiatry, McGill University, 1033 Pine Avenue West, Montréal, QC, H3A 1A1, Canada
+    index: 7
+  - name: Département de psychologie, Université de Montréal, 90 avenue Vincent d'Indy, Montréal, QC, H3C 3J7, Canada
+    index: 8
+
 date: 26 March 2021
 bibliography: paper.bib
 ---
