@@ -6,12 +6,33 @@ tags:
   - Reproducible article
   - Neuroscience
 authors:
-  - name: Agah Karakuzu
-    orcid: 0000-0001-7283-271X
-    affiliation: "1, 2, 3, 4, 5, 6"
-  - name: Nikola Stikov
-    orcid: 0000-0002-8480-5230
-    affiliation: "1, 2, 7, 8"
+  - name: Angela Tam
+    orcid: 0000-0001-6752-5707
+    affiliation: "1, 2"
+  - name: Christian Dansereau
+    orcid: 0000-0003-3363-1901
+    affiliation: "1, 3"
+  - name: Yasser Iturria-Medina
+    orcid: 0000-0002-9345-0347
+    affiliation: "4"
+  - name: Sebastian Urchs
+    orcid: 0000-0001-5504-8579
+    affiliation: "1, 4"
+  - name: Pierre Orban
+    orcid: 0000-0003-3201-9614
+    affiliation: "1, 5, 6"
+  - name: Hanad Shamarke
+    orcid: 0000-0000-0000-0000
+    affiliation: "1"
+  - name: John Breitner
+    orcid: 0000-0003-4229-4687
+    affiliation: "2, 7"
+  - name: Pierre Bellec
+    orcid: 0000-0002-9111-0699
+    affiliation: "2, 7"
+  - name: Alzheimer's Disease Neuroimaging Initiative
+    orcid: 0000-0000-0000-0000
+    affiliation: ""
 affiliations:
   - name:  Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal, 4545 chemin Queen-Mary, Montréal, QC, H3W 1W4, Canada
     index: 1
@@ -34,7 +55,7 @@ date: 26 March 2021
 bibliography: paper.bib
 ---
 
-This work is a reproducible companion to the following article: [A signature of cognitive deficits and brain atrophy that is highly predictive of progression to Alzheimer’s dementia](https://doi.org/10.1101/352344). The original data used in the publication, collected and shared by the Alzheimer's Disease Neuroimaging Initiative (ADNI), cannot be openly redistributed. Instead, we included simulated data which mimic the characteristics of the imaging and demographics sample used in the publication. All the necessary code for predictive modelling is also included, allowing to reproduce all key analyses and results. Although the results presented here do not strictly reproduce those found in the publication, as we are using simulated data instead, the notebooks shared here will allow readers to closely approximate all major figures in the paper.
+This work is a reproducible companion to the following [article](https://doi.org/10.1101/352344), "_A signature of cognitive deficits and brain atrophy that is highly predictive of progression to Alzheimer’s dementia_". The original data used in the publication, collected and shared by the Alzheimer's Disease Neuroimaging Initiative (ADNI), cannot be openly redistributed. Instead, we included simulated data which mimic the characteristics of the imaging and demographics sample used in the publication. All the necessary code for predictive modelling is also included, allowing to reproduce all key analyses and results. Although the results presented here do not strictly reproduce those found in the publication, as we are using simulated data instead, the notebooks shared here will allow readers to closely approximate all major figures in the paper.
 
 Here is a brief description of each item in the repository:
 * **Proteus** - a Python package by [Christian Dansereau](https://github.com/cdansereau). Proteus was built on [scikit-learn](http://scikit-learn.org/stable/#) and it offers machine learning tools to make highly confident predictions
