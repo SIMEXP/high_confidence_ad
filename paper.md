@@ -56,6 +56,7 @@ bibliography: paper.bib
 This work is a reproducible companion to the following [article](https://doi.org/10.1101/352344), "_A signature of cognitive deficits and brain atrophy that is highly predictive of progression to Alzheimer’s dementia_". The original data used in the publication, collected and shared by the Alzheimer's Disease Neuroimaging Initiative (ADNI), cannot be openly redistributed. Instead, we included simulated data which mimic the characteristics of the imaging and demographics sample used in the publication. All the necessary code for predictive modelling is also included, allowing to reproduce all key analyses and results. Although the results presented here do not strictly reproduce those found in the publication, as we are using simulated data instead, the notebooks shared here will allow readers to closely approximate all major figures in the paper.
 
 Here is a brief description of each item in the repository:
+
   * **Proteus** - a Python package by [Christian Dansereau](https://github.com/cdansereau). Proteus was built on [scikit-learn](http://scikit-learn.org/stable/#) and it offers machine learning tools to make highly confident predictions
   * **vcog_hpc_prediction_simulated_data.ipynb** - a Jupyter notebook containing analyses that give a highly predictive signature (HPS) of Alzheimer's disease dementia from cognitive and structural features using *simulated data*
   * **simulation_script.py** - a Python script that generates simulated data from raw data
