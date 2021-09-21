@@ -1,5 +1,5 @@
 ---
-title: 'Reproducible companion to \"A highly predictive signature of cognition and brain atrophy for progression to Alzheimer's dementia\"'
+title: 'Reproducible companion to A highly predictive signature of cognition and brain atrophy for progression to Alzheimer's dementia'
 tags:
   - Reproducible article
   - Alzheimer's Disease
