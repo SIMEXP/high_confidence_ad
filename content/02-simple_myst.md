@@ -9,15 +9,17 @@ repository:
   url: https://github.com/neurolibre/template
 ---
 
-## What is MyST Markdown? 
+# A quick intro to MyST Markdown
+
+## What is MyST Markdown?
 
 In addition to Jupyter Notebooks, Jupyter Book also supports a special flavour of Markdown called MyST (or Markedly Structured Text). It is designed to make it easier to create publishable computational documents written with Markdown notation.
 
 The following sections present the same content in the Jupyter Book (`01-simple_notebook.ipynb`) in MyST format.
 
-## How to make a code cell collapsible in the Jupyter Book? 
+## How to make a code cell collapsible in the Jupyter Book?
 
-In MyST, a code cell is defined as follows: 
+In MyST, a code cell is defined as follows:
 
 ```{code-cell} python3
 
@@ -25,7 +27,7 @@ print("This is a code cell using Python3 kernel.")
 
 ```
 
-To hide a code cell, you can simply add `:tags: [hide-cell]` expression to the beginning of a code cell: 
+To hide a code cell, you can simply add `:tags: [hide-cell]` expression to the beginning of a code cell:
 
 ```{code-cell} python3
 :tags: [hide-cell]
@@ -45,7 +47,7 @@ The code cell below uses `Plotly` to generate a simple interactive figure. When 
 import plotly.express as px
 from plotly.offline import plot
 
-# Example dataset 
+# Example dataset
 df = px.data.gapminder()
 
 # Scatter plot with slider

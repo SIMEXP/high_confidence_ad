@@ -1,6 +1,8 @@
-## How to organize the preprint content? 
+# Quick guide to jupyter books in Neurolibre
 
-NeuroLibre expects all the preprint content (except for `paper.md` and `preprint.md`) under 
+## How to organize the preprint content?
+
+NeuroLibre expects all the preprint content (except for `paper.md` and `preprint.md`) under
 the `content` folder. You can add subfolders to organize your content as you see fit.
 
 The `_toc.yml` file determines the structure of your Book. Please visit the [official documentation](https://jupyterbook.org/customize/toc.html) for details.
