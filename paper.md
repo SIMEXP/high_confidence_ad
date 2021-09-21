@@ -22,7 +22,6 @@ authors:
     orcid: 0000-0003-3201-9614
     affiliation: "1, 5, 6"
   - name: Hanad Shamarke
-    orcid: 0000-0000-0000-0000
     affiliation: "1"
   - name: John Breitner
     orcid: 0000-0003-4229-4687
@@ -31,7 +30,6 @@ authors:
     orcid: 0000-0002-9111-0699
     affiliation: "2, 7"
   - name: Alzheimer's Disease Neuroimaging Initiative
-    orcid: 0000-0000-0000-0000
     affiliation: ""
 affiliations:
   - name:  Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal, 4545 chemin Queen-Mary, Montréal, QC, H3W 1W4, Canada
